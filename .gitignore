@@ -37,3 +37,19 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Python Related
+.ipynb_checkpoints
+.DS_Store
+*.code-workspace
+_site
+
+drafts
+external_content
+
+homework/*sol*
+discussion/*sol*
+*.pyc
+*Untitled*
+python_scratch.py
+project/scratch.ipynb
