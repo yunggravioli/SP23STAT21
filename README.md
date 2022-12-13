@@ -21,3 +21,4 @@ Syntax highlighted code block in Markdown
 [Link](url) and ![Image](src)
 ```
 
+see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
