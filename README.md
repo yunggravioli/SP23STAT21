@@ -3,7 +3,8 @@ Spring 2023 Statistics 21
 
 ![Malibu](images/malibu-2080075_1920.jpeg)
 
-Syntax highlighted code block
+```markdown
+Syntax highlighted code block in Markdown
 
 # Header 1
 ## Header 2
@@ -18,3 +19,5 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+
