@@ -3,7 +3,7 @@ Spring 2023 Statistics 21
 
 | Week  | Tuesday    | Thursday   | TA    | 
 | :---      | :---  | :---        | :---       | 
-|  1  1/10  | Syllabus Qs <br> Speed Meeting? <br> video intros?  | Tony Hendra? <br> Group Behavior?  |   |                                                                                                          
+|  1  1/10  | Syllabus Hunt <br> Tools  |  |   |                                                                                                          
 |  2  1/17  | A of Stats Part 1 <br> A of Stats Part 2 (Ruland)   |  CV & Résumé  <br> NoDoZ |   |                                                                         
 |  3  1/24 | A of Stats Part 3 <br> generating questions |  ACT I/ACT2   |  Git? |                                                                                                                  
 |  4  1/31 | Z of Stats   |  7D  | Assessment |                                                                                            
