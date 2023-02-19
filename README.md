@@ -1,18 +1,18 @@
 # SP23STAT21
 Spring 2023 Statistics 21
 
-| Week  | Tuesday    | Thursday   | TA    | 
+| Week  | Monday    | Wednesday   | Friday    | 
 | :---      | :---  | :---        | :---       | 
-|  1  1/10  | Syllabus Hunt <br> Tools  |  |   |                                                                                                          
-|  2  1/17  | A of Stats Part 1 <br> A of Stats Part 2 (Ruland)   |  CV & Résumé  <br> NoDoZ |   |                                                                         
-|  3  1/24 | A of Stats Part 3 <br> generating questions |  ACT I/ACT2   |  Git? |                                                                                                                  
-|  4  1/31 | Z of Stats   |  7D  | Assessment |                                                                                            
-|  5  2/7 | Review? (Expectations)  | Midterm | |                                                                                                        
-|  6  2/14 |   Final Team and Data   |   Data For Discussion  |  |                                                                                                    
-|  7  2/21  |  Final Proposal Assignment  <br> EDA |  Check Your List Twice? | Final Teams Due|                                                                                                        
-|  8  2/28 | Editing/Pyramind   | Posters   |  |
-|  9  3/7 | Dashboards      |  Mapping |     |
-| 10  3/14 | Team Check in |  Presentations |   |
+|  1  4/3  | Syllabus Hunt <br> CLI  | IDEs & Notebooks  |  GitHub |                                                                                                          
+|  2  4/10  |   |   |   |                                                                         
+|  3  4/17 |  |     |   |                                                                                                                  
+|  4  4/24 |    |    | DataFest or Midterm |                                                                                            
+|  5  5/1 |   |  | |                                                                                                        
+|  6  5/8 |       |      |  |                                                                                                    
+|  7  5/15  |   |    |  |                                                                                                        
+|  8  5/22 |    |     |  |
+|  9  5/29 | Holiday      |    |     |
+| 10  6/5 |   |    |   |
 
 ![Malibu](images/malibu-2080075_1920.jpeg)
 
