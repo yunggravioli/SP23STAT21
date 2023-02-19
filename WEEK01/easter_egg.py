@@ -1,4 +1,6 @@
-import turtle
+import turtle # might need Python 3.11 or possibly install turtle
+
+# if you are looking at this in Week 01, I'm assuming you know a lot already
 
 # create a turtle object assign it to "t"
 t = turtle.Turtle()
