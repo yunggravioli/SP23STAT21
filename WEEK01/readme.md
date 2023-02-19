@@ -1,4 +1,4 @@
-CLI
-Installation
-IDEs and Notebooks
-GitHub
+CLI  
+Installation  
+IDEs and Notebooks  
+GitHub  
