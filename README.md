@@ -1,7 +1,7 @@
 # SP23STAT21
 Spring 2023 Statistics 21
 
-![Malibu](images/malibu-2080075_1920.jpeg)
+![Window](images/Window1.JPG)
 
 ```markdown
 Syntax highlighted code block in Markdown
